@@ -205,7 +205,6 @@ let jsonObject = window.json || {
         title: " ",
         description: " ",
         color: 0x41f097,
-        timestamp: new Date().toISOString(),
         url: " ",
         author: {
             name: " ",
