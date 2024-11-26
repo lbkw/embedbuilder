@@ -8,9 +8,9 @@
 // URL options can override the options below.
 // Options set through the menu can override both until the page is refreshed.
 options = {
-    username: 'Discord Bot',
+    username: 'delta',
     avatar: 'https://cdn.discordapp.com/embed/avatars/1.png',
-    verified: false,
+    verified: true,
     noUser: false,
     data: null,
     guiTabs: ['author', 'description'],
@@ -24,7 +24,7 @@ options = {
     hideMenu: false,
     single: false,
     noMultiEmbedsOption: false,
-    sourceOption: false, // Display link to source code in menu.
+    sourceOption: true, // Display link to source code in menu.
 }
 
 // Default JSON object
